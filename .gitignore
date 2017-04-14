@@ -32,3 +32,5 @@ bin/
 obj/
 
 *.suo
+testdata/
+tools/testdata/
